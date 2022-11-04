@@ -1,0 +1,20 @@
+{
+  "publicaciones": [
+    {
+      "id": 1,
+      "producto": "Jersey Rojo Mineros 2022"
+    },
+    {
+      "id": 2,
+      "producto": "Jersey blanco Mineros 2022"
+    },
+    {
+      "id": 3,
+      "producto": "Jersey Negro Mineros 2022"
+    }
+     {
+      "id": 4,
+      "producto": "Jersey Gris Mineros 2019"
+    },
+  ],
+}
